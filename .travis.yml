@@ -1,8 +1,6 @@
 language: java
 
-mvn test
-
 branches:
   only:
     - master
-    - develop
+    - developc
