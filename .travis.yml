@@ -1,5 +1,7 @@
 language: java
 
+script: cd MROZA-Show && mvn test
+
 branches:
   only:
     - master
